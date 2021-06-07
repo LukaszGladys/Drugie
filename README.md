@@ -1,1 +1,1 @@
-# Drugie
+# Django rental
